@@ -13,20 +13,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **Srinandy**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment, and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`Srinandy`]()**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment, and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: Srinandy  
+- **Name**: Srinandy
 - **From**: India
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 - i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at **nandysrii@gmail.com**
+- Reach me out at **testingbugbysri@gmail.com**
 
 </details>
 <br>
@@ -93,8 +93,8 @@ I'm **Srinandy**, a hacker & Security Researcher and aspiring Cybersecurity Spec
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandysrii&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/nandysrii/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=nandysrii&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/nandysrii/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandysrii&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
 
@@ -104,13 +104,8 @@ I'm **Srinandy**, a hacker & Security Researcher and aspiring Cybersecurity Spec
 
 <details>
 <summary>Buy Me A Coffee</summary>
-  
-<p align="center"><a href="https://buymeacoffee.com/srinandy"><img  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="srinandy" data-color="#a51d2d" data-emoji="👺"  data-font="Cookie" data-text="Buy me a Blood" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>/>
-</a></p>
 
-</details>
-
-<p align="center"><a href=""><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+<p align="center"><a href="https://buymeacoffee.com/srinandy"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 </details>
 
@@ -124,4 +119,3 @@ I'm **Srinandy**, a hacker & Security Researcher and aspiring Cybersecurity Spec
 <p align="center">
 <a>🌱</a>
 </p>
-
