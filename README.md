@@ -105,11 +105,10 @@ I'm **Srinandy**, a hacker & Security Researcher and aspiring Cybersecurity Spec
 <details>
 <summary>Buy Me A Coffee</summary>
   
-<p align="center"><a href="https://buymeacoffee.com/srinandy"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+<p align="center"><a href="https://buymeacoffee.com/srinandy"><img  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="srinandy" data-color="#a51d2d" data-emoji="👺"  data-font="Cookie" data-text="Buy me a Blood" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>/>
+</a></p>
 
 </details>
-
-<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
 
 <p align="center"><a href=""><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
